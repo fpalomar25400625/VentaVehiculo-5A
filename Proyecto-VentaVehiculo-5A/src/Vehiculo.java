@@ -40,34 +40,3 @@ public class Vehiculo {
                "Motor " + this.motor  + "\n";
     }
 }
-
-/* 
-  Vehiculo
-marca: string
-precio: double
-mototr: string
-
-Cliente
-rs:String
-rfc: String
-email:Stirng
-
-Venta:
-cantidad: int
-vehiculo: vehiculo
-cliente: cliente
-
-Venta(int cantidad, c: cliente, c:clciente)
-
-crear repositorio github VentaVehiculo-5A
-Clonar repositoria
-repositorio local(VentaVehiculo-5A) (Proyectp-VentaVehiculo-5A)
-Crar clase vehiculo
-git status, git commit, git push
-crea clase cliuente
-git status, git commit, git push
-crear clase venta
-git status, git commit, git push
-crear clase principalVenta
-git status, git commit, git push
-*/
